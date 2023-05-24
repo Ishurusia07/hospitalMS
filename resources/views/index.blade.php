@@ -9,7 +9,7 @@
             <div class="text-contant">
                <h2>
                   <span class="center"><span class="icon"><img src="{{ ($app) ? config('app.url').'storage/'. $app->icon_logo_path:'images/icon-logo.png' }}" alt="#" /></span></span>
-                  <a href="" class="typewrite" data-period="2000" data-type='[ "Welcome to Life Care", "We Care Your Health", "We are Expert!" ]'>
+                  <a href="" class="typewrite" data-period="2000" data-type='[ "Welcome to Ishu Care", "We Care Your Health", "We are Expert!" ]'>
                   <span class="wrap"></span>
                   </a>
                </h2>
